@@ -1,0 +1,234 @@
+#EXTM3U
+#EXTINF:0,FOX BUSINESS
+https://app.playgridapp.com/player/live?channelId=20000028&categoryId=90000213&channelNumber=13
+#EXTINF:0,MSNBC
+https://app.playgridapp.com/player/live?channelId=20000843&categoryId=90000213&channelNumber=17
+#EXTINF:0,BOOMERANG
+https://app.playgridapp.com/player/live?channelId=20000082&categoryId=90000213&channelNumber=28
+#EXTINF:0,DISNEY CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000871&categoryId=90000213&channelNumber=29
+#EXTINF:0,DISNEY CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000041&categoryId=90000213&channelNumber=30
+#EXTINF:0,DISNEY JUNIOR
+https://app.playgridapp.com/player/live?channelId=20000042&categoryId=90000213&channelNumber=31
+#EXTINF:0,DISNEY JUNIOR
+https://app.playgridapp.com/player/live?channelId=20000833&categoryId=90000213&channelNumber=32
+#EXTINF:0,DISNEY XD
+https://app.playgridapp.com/player/live?channelId=20000043&categoryId=90000213&channelNumber=33
+#EXTINF:0,CARTOON NETWORK
+https://app.playgridapp.com/player/live?channelId=20001293&categoryId=90000213&channelNumber=34
+#EXTINF:0,CARTOON NETWORK
+https://app.playgridapp.com/player/live?channelId=20000051&categoryId=90000213&channelNumber=35
+#EXTINF:0,NICKELODEON
+https://app.playgridapp.com/player/live?channelId=20000076&categoryId=90000213&channelNumber=36
+#EXTINF:0,NICK JR
+https://app.playgridapp.com/player/live?channelId=20000077&categoryId=90000213&channelNumber=38
+#EXTINF:0,NICK MUSIC
+https://app.playgridapp.com/player/live?channelId=20000629&categoryId=90000213&channelNumber=40
+#EXTINF:0,NICK TOONS
+https://app.playgridapp.com/player/live?channelId=20000080&categoryId=90000213&channelNumber=41
+#EXTINF:0,TEEN NICK
+https://app.playgridapp.com/player/live?channelId=20000626&categoryId=90000213&channelNumber=42
+#EXTINF:0,A&E
+https://app.playgridapp.com/player/live?channelId=20000063&categoryId=90000213&channelNumber=45
+#EXTINF:0,A&E
+https://app.playgridapp.com/player/live?channelId=20000837&categoryId=90000213&channelNumber=46
+#EXTINF:0,AMC
+https://app.playgridapp.com/player/live?channelId=20000015&categoryId=90000213&channelNumber=47
+#EXTINF:0,AXN
+https://app.playgridapp.com/player/live?channelId=20001226&categoryId=90000213&channelNumber=49
+#EXTINF:0,AXN TV
+https://app.playgridapp.com/player/live?channelId=20000704&categoryId=90000213&channelNumber=50
+#EXTINF:0,ADULT SWIM
+https://app.playgridapp.com/player/live?channelId=20001068&categoryId=90000213&channelNumber=51
+#EXTINF:0,AMERICAN HEROS CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000097&categoryId=90000213&channelNumber=52
+#EXTINF:0,ANIMAL PLANET
+https://app.playgridapp.com/player/live?channelId=20000158&categoryId=90000213&channelNumber=53
+#EXTINF:0,BET
+https://app.playgridapp.com/player/live?channelId=20000107&categoryId=90000213&channelNumber=57
+#EXTINF:0,BET
+https://app.playgridapp.com/player/live?channelId=20000854&categoryId=90000213&channelNumber=58
+#EXTINF:0,BET HER
+https://app.playgridapp.com/player/live?channelId=20000630&categoryId=90000213&channelNumber=59
+#EXTINF:0,BET JAMS
+https://app.playgridapp.com/player/live?channelId=20000691&categoryId=90000213&channelNumber=60
+#EXTINF:0,BET SOUL
+https://app.playgridapp.com/player/live?channelId=20001310&categoryId=90000213&channelNumber=61
+#EXTINF:0,BOUNCE TV
+https://app.playgridapp.com/player/live?channelId=20001588&categoryId=90000213&channelNumber=62
+#EXTINF:0,BRAVO
+https://app.playgridapp.com/player/live?channelId=20000855&categoryId=90000213&channelNumber=63
+#EXTINF:0,BRAVO
+https://app.playgridapp.com/player/live?channelId=20000040&categoryId=90000213&channelNumber=64
+#EXTINF:0,CMT
+https://app.playgridapp.com/player/live?channelId=20000110&categoryId=90000213&channelNumber=65
+#EXTINF:0,CHEDDAR
+https://app.playgridapp.com/player/live?channelId=20000625&categoryId=90000213&channelNumber=66
+#EXTINF:0,COMEDY CENTRAL
+https://app.playgridapp.com/player/live?channelId=20000068&categoryId=90000213&channelNumber=67
+#EXTINF:0,COMET
+https://app.playgridapp.com/player/live?channelId=20001051&categoryId=90000213&channelNumber=69
+#EXTINF:0,COOKING CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000060&categoryId=90000213&channelNumber=70
+#EXTINF:0,COZI TV
+https://app.playgridapp.com/player/live?channelId=20001052&categoryId=90000213&channelNumber=71
+#EXTINF:0,CRIME INVESTIGATION
+https://app.playgridapp.com/player/live?channelId=20000925&categoryId=90000213&channelNumber=72
+#EXTINF:0,DIY
+https://app.playgridapp.com/player/live?channelId=20000092&categoryId=90000213&channelNumber=73
+#EXTINF:0,DESTINATION AMERICA
+https://app.playgridapp.com/player/live?channelId=20000102&categoryId=90000213&channelNumber=75
+#EXTINF:0,DISCOVERY CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000144&categoryId=90000213&channelNumber=76
+#EXTINF:0,DISCOVERY CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000834&categoryId=90000213&channelNumber=77
+#EXTINF:0,DISCOVERY FAMILY
+https://app.playgridapp.com/player/live?channelId=20000638&categoryId=90000213&channelNumber=78
+#EXTINF:0,DISCOVERY ID
+https://app.playgridapp.com/player/live?channelId=20000864&categoryId=90000213&channelNumber=79
+#EXTINF:0,DISCOVERY ID
+https://app.playgridapp.com/player/live?channelId=20000143&categoryId=90000213&channelNumber=80
+#EXTINF:0,DISCOVERY LIFE
+https://app.playgridapp.com/player/live?channelId=20000936&categoryId=90000213&channelNumber=81
+#EXTINF:0,DISCOVERY SCIENCE
+https://app.playgridapp.com/player/live?channelId=20000146&categoryId=90000213&channelNumber=82
+#EXTINF:0,E!
+https://app.playgridapp.com/player/live?channelId=20000062&categoryId=90000213&channelNumber=83
+#EXTINF:0,E!
+https://app.playgridapp.com/player/live?channelId=20001234&categoryId=90000213&channelNumber=84
+#EXTINF:0,EL REY
+https://app.playgridapp.com/player/live?channelId=20000006&categoryId=90000213&channelNumber=85
+#EXTINF:0,FM
+https://app.playgridapp.com/player/live?channelId=20000789&categoryId=90000213&channelNumber=86
+#EXTINF:0,FMC
+https://app.playgridapp.com/player/live?channelId=20006338&categoryId=90000213&channelNumber=87
+#EXTINF:0,FX
+https://app.playgridapp.com/player/live?channelId=20000064&categoryId=90000213&channelNumber=88
+#EXTINF:0,FX
+https://app.playgridapp.com/player/live?channelId=20000847&categoryId=90000213&channelNumber=89
+#EXTINF:0,FXM
+https://app.playgridapp.com/player/live?channelId=20000353&categoryId=90000213&channelNumber=90
+#EXTINF:0,FXX
+https://app.playgridapp.com/player/live?channelId=20000012&categoryId=90000213&channelNumber=91
+#EXTINF:0,FYI
+https://app.playgridapp.com/player/live?channelId=20000093&categoryId=90000213&channelNumber=93
+#EXTINF:0,FeTV
+https://app.playgridapp.com/player/live?channelId=20005561&categoryId=90000213&channelNumber=94
+#EXTINF:0,FOOD NETWORK
+https://app.playgridapp.com/player/live?channelId=20001232&categoryId=90000213&channelNumber=96
+#EXTINF:0,FOOD NETWORK
+https://app.playgridapp.com/player/live?channelId=20000039&categoryId=90000213&channelNumber=97
+#EXTINF:0,FREEFORM
+https://app.playgridapp.com/player/live?channelId=20000851&categoryId=90000213&channelNumber=98
+#EXTINF:0,FREEFORM
+https://app.playgridapp.com/player/live?channelId=20000058&categoryId=90000213&channelNumber=99
+#EXTINF:0,FUSE
+https://app.playgridapp.com/player/live?channelId=20000627&categoryId=90000213&channelNumber=100
+#EXTINF:0,GAMESHOW NETWORK
+https://app.playgridapp.com/player/live?channelId=20000088&categoryId=90000213&channelNumber=101
+#EXTINF:0,GUSTO
+https://app.playgridapp.com/player/live?channelId=20001577&categoryId=90000213&channelNumber=105
+#EXTINF:0,HALLMARK CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000100&categoryId=90000213&channelNumber=106
+#EXTINF:0,HALLMARK CHANNEL
+https://app.playgridapp.com/player/live?channelId=20001578&categoryId=90000213&channelNumber=107
+#EXTINF:0,HALLMARK FAMILY
+https://app.playgridapp.com/player/live?channelId=20000631&categoryId=90000213&channelNumber=108
+#EXTINF:0,HALLMARK MOVIES & MYSTERIES
+https://app.playgridapp.com/player/live?channelId=20000101&categoryId=90000213&channelNumber=109
+#EXTINF:0,HGTV
+https://app.playgridapp.com/player/live?channelId=20000059&categoryId=90000213&channelNumber=110
+#EXTINF:0,HGTV
+https://app.playgridapp.com/player/live?channelId=20000853&categoryId=90000213&channelNumber=111
+#EXTINF:0,HISTORY CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000069&categoryId=90000213&channelNumber=112
+#EXTINF:0,HISTORY 2
+https://app.playgridapp.com/player/live?channelId=20000149&categoryId=90000213&channelNumber=113
+#EXTINF:0,HLN
+https://app.playgridapp.com/player/live?channelId=20000852&categoryId=90000213&channelNumber=114
+#EXTINF:0,HLN
+https://app.playgridapp.com/player/live?channelId=20000154&categoryId=90000213&channelNumber=115
+#EXTINF:0,IFC
+https://app.playgridapp.com/player/live?channelId=20000054&categoryId=90000213&channelNumber=116
+#EXTINF:0,ION
+https://app.playgridapp.com/player/live?channelId=20001191&categoryId=90000213&channelNumber=118
+#EXTINF:0,LAW & CRIME
+https://app.playgridapp.com/player/live?channelId=20001311&categoryId=90000213&channelNumber=122
+#EXTINF:0,LIFETIME
+https://app.playgridapp.com/player/live?channelId=20000836&categoryId=90000213&channelNumber=123
+#EXTINF:0,LIFETIME
+https://app.playgridapp.com/player/live?channelId=20000061&categoryId=90000213&channelNumber=124
+#EXTINF:0,LIFETIME MOVIES
+https://app.playgridapp.com/player/live?channelId=20000099&categoryId=90000213&channelNumber=126
+#EXTINF:0,MAV TV
+https://app.playgridapp.com/player/live?channelId=20000729&categoryId=90000213&channelNumber=128
+#EXTINF:0,MOTOR TREND
+https://app.playgridapp.com/player/live?channelId=20000773&categoryId=90000213&channelNumber=129
+#EXTINF:0,MTV
+https://app.playgridapp.com/player/live?channelId=20000066&categoryId=90000213&channelNumber=131
+#EXTINF:0,MTV 2
+https://app.playgridapp.com/player/live?channelId=20000105&categoryId=90000213&channelNumber=132
+#EXTINF:0,MYV LIVE
+https://app.playgridapp.com/player/live?channelId=20000759&categoryId=90000213&channelNumber=134
+#EXTINF:0,NAT GEO
+https://app.playgridapp.com/player/live?channelId=20000147&categoryId=90000213&channelNumber=135
+#EXTINF:0,NAT GEO WILD
+https://app.playgridapp.com/player/live?channelId=20000148&categoryId=90000213&channelNumber=136
+#EXTINF:0,OWN
+https://app.playgridapp.com/player/live?channelId=20000086&categoryId=90000213&channelNumber=137
+#EXTINF:0,QVC
+https://app.playgridapp.com/player/live?channelId=20001073&categoryId=90000213&channelNumber=146
+#EXTINF:0,QUEST
+https://app.playgridapp.com/player/live?channelId=20006332&categoryId=90000213&channelNumber=147
+#EXTINF:0,REVOLT
+https://app.playgridapp.com/player/live?channelId=20000108&categoryId=90000213&channelNumber=150
+#EXTINF:0,SMITHSONIAN
+https://app.playgridapp.com/player/live?channelId=20000150&categoryId=90000213&channelNumber=153
+#EXTINF:0,SYFY
+https://app.playgridapp.com/player/live?channelId=20000113&categoryId=90000213&channelNumber=155
+#EXTINF:0,TASTEMADE
+https://app.playgridapp.com/player/live?channelId=20000728&categoryId=90000213&channelNumber=156
+#EXTINF:0,TBS
+https://app.playgridapp.com/player/live?channelId=20001149&categoryId=90000213&channelNumber=157
+#EXTINF:0,TBS
+https://app.playgridapp.com/player/live?channelId=20000004&categoryId=90000213&channelNumber=158
+#EXTINF:0,TBS
+https://app.playgridapp.com/player/live?channelId=20000850&categoryId=90000213&channelNumber=159
+#EXTINF:0,THE COWBOY CHANNEL
+https://app.playgridapp.com/player/live?channelId=20001240&categoryId=90000213&channelNumber=160
+#EXTINF:0,THE GRIO
+https://app.playgridapp.com/player/live?channelId=20007832&categoryId=90000213&channelNumber=161
+#EXTINF:0,TLC
+https://app.playgridapp.com/player/live?channelId=20000095&categoryId=90000213&channelNumber=162
+#EXTINF:0,TLC
+https://app.playgridapp.com/player/live?channelId=20001233&categoryId=90000213&channelNumber=163
+#EXTINF:0,TNT
+https://app.playgridapp.com/player/live?channelId=20000052&categoryId=90000213&channelNumber=164
+#EXTINF:0,TNT
+https://app.playgridapp.com/player/live?channelId=20002020&categoryId=90000213&channelNumber=165
+#EXTINF:0,TNT
+https://app.playgridapp.com/player/live?channelId=20000849&categoryId=90000213&channelNumber=166
+#EXTINF:0,TNT
+https://app.playgridapp.com/player/live?channelId=20001414&categoryId=90000213&channelNumber=167
+#EXTINF:0,TRAVEL CHANNEL
+https://app.playgridapp.com/player/live?channelId=20000096&categoryId=90000213&channelNumber=168
+#EXTINF:0,TRUTV 
+https://app.playgridapp.com/player/live?channelId=20000067&categoryId=90000213&channelNumber=170
+#EXTINF:0,TV LAND
+https://app.playgridapp.com/player/live?channelId=20000098&categoryId=90000213&channelNumber=171
+#EXTINF:0,TV ONE
+https://app.playgridapp.com/player/live?channelId=20000636&categoryId=90000213&channelNumber=172
+#EXTINF:0,UP TV
+https://app.playgridapp.com/player/live?channelId=20001239&categoryId=90000213&channelNumber=175
+#EXTINF:0,USA NETWORK
+https://app.playgridapp.com/player/live?channelId=20000848&categoryId=90000213&channelNumber=176
+#EXTINF:0,USA NETWORK
+https://app.playgridapp.com/player/live?channelId=20000050&categoryId=90000213&channelNumber=177
+#EXTINF:0,VH1
+https://app.playgridapp.com/player/live?channelId=20000109&categoryId=90000213&channelNumber=180
+#EXTINF:0,VICELAND
+https://app.playgridapp.com/player/live?channelId=20000152&categoryId=90000213&channelNumber=181
+#EXTINF:0,WE TV
+https://app.playgridapp.com/player/live?channelId=20000104&categoryId=90000213&channelNumber=182
+
