@@ -231,6 +231,7 @@ https://app.playgridapp.com/player/live?channelId=20000109&categoryId=90000213&c
 https://app.playgridapp.com/player/live?channelId=20000152&categoryId=90000213&channelNumber=181/index.m3u8
 #EXTINF:0,WE TV
 https://app.playgridapp.com/player/live?channelId=20000104&categoryId=90000213&channelNumber=182/index.m3u8
+https://docs.google.com/document/d/e/2PACX-1vSwW0c3OOM1sB8PZlC69PPc81jSqEy4rlZ9GSPGpWqHnezaWzeCOxWQIWR7pcUbAi8bn-Ifmy2oV1o3/pub
 
 
 
